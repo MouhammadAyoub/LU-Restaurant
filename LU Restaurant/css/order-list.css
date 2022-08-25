@@ -1,0 +1,39 @@
+.img-order-list{
+    width:100px;
+    border-radius: 20px;
+
+}
+
+
+ul,li{
+    list-style: none;
+    margin-bottom: 10px;
+    
+}
+
+.order-list-container{
+   text-align: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    width:50vw;
+
+}
+.order-process{
+
+    margin-top: 50px;
+    margin-bottom: 200px;
+}
+table,tr,td,th{
+    padding:10px;
+    text-align: center;
+    border-collapse: collapse;
+    border-radius: 20px;
+    border: 1px solid black;
+    }
+td{
+width:120px;
+}
+
+table{
+    margin-top: 50px;
+}
